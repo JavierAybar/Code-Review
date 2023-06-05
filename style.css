@@ -1,0 +1,42 @@
+h1,p{
+    text-align: center;
+}
+div#Form{
+    text-align: center;
+    background-color: rgb(64, 67, 55);
+    opacity: 0.8;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+.checkboxColor{
+    color: white;
+}
+body{
+    background-image: url(coding.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+}
+div{
+    text-align: start;
+    margin: 20px;
+}
+.large{
+    width: 400px;
+    height: 40px;
+    border-radius:10px;
+}
+p{
+    color: white;
+}
+label,option,input{
+    color: white;
+}
+input[type='submit']{
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: green;
+}
